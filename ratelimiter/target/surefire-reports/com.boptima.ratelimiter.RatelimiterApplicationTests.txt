@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.boptima.ratelimiter.RatelimiterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 99.753 s - in com.boptima.ratelimiter.RatelimiterApplicationTests
